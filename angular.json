@@ -44,7 +44,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/burgersAngular/"
+              "baseHref": "/burgersHouseAngularAdaptive/"
             },
             "development": {
               "buildOptimizer": false,
